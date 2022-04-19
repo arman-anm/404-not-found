@@ -16,9 +16,10 @@
   --ff-primary: 'Space Mono', monospace;;
   --ff-header: 'Inconsolata', monospace;
   --ff-footer: 'Montserrat', sans-serif;
-  --fs-p: clamp(2.4rem, 5vw, 3rem);
   --fs-h1: clamp(4.8rem, 5vw, 6.4rem);
-  --fs-button: 1.4rem;
+  --fs-p: clamp(2.4rem, 5vw, 3rem);
+  --fs-button: clamp(1.4rem, 5vw, 2.4rem);
+  --fs-footer: clamp(1rem, 5vw, 1.4rem);
   --fw-normal: 400;
   --fw-medium: 500;
   --fw-bold: 700; 
@@ -89,7 +90,7 @@ main {
 
 footer {
   text-align: center;
-  font-size: var(--fs-button);
+  font-size: var(--fs-footer);
   margin-top: var(--margin-2x);
   font-family: var(--ff-footer);
   color: var(--gray-3);

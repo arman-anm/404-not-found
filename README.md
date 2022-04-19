@@ -1,5 +1,3 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">Solution to '404 Page Challenge' using Flexbox</h1>
 
 <div align="center">
@@ -22,7 +20,6 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
@@ -32,7 +29,6 @@
 - [Features](#features)
 - [Contact](#contact)
 
-<!-- OVERVIEW -->
 
 ## Overview
 
@@ -46,7 +42,6 @@
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This simple site was created as a challenge offered by [DevChallenges](https://devchallenges.io/challenges). The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build a responsive webpage following the given design.
 

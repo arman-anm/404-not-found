@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY>
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
   </h3>
@@ -55,5 +55,3 @@ This simple site was created as a challenge offered by [DevChallenges](https://d
 
 - GitHub [@arman-anm](https://github.com/arman-anm)
 - Twitter [@arman_anm](https://twitter.com/arman_anm)
-
-
